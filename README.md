@@ -26,11 +26,11 @@
 
 <br clear="both">
 
-<h5 align="left">👩‍💻 My name is Mashrurul Haque Ansari, and I'm a passionate individual with a strong interest in the field of data science. At the age of 22, I am driven by the power of data and its potential to drive meaningful insights and inform decision-making processes.</h5>
+<h3 align="left">👩‍💻 My name is Mashrurul Haque Ansari, and I'm a passionate individual with a strong interest in the field of data science. At the age of 22, I am driven by the power of data and its potential to drive meaningful insights and inform decision-making processes.</h3>
 
 ###
 
-<h5 align="left">- 📚 learning Power BI, EDA, Statistics, Machine Learning, SQL <br>- ⚡Reach me out: mdmashrurulhaque@gmail.com</h5>
+<h4 align="left">- 📚 learning Power BI, EDA, Statistics, Machine Learning, SQL <br>- ⚡Reach me out: mdmashrurulhaque@gmail.com</h4>
 
 ###
 
