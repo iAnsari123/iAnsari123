@@ -1,8 +1,6 @@
 <br clear="both">
 
-<div align="center">
-  <img height="300" src="https://github.com/iAnsari123/iAnsari123/blob/main/Black%20and%20Ivory%20Modern%20Name%20YouTube%20Channel%20Art.png"  />
-</div>
+
 
 ###
 
